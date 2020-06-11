@@ -1,0 +1,17 @@
+pkg update 
+pkg upgrade 
+pkg install python
+pkg install python2
+pkg install git
+pip2 install requests
+pip2 install mechanize
+git clone https://github.com/mafia420/autoreport
+cd autoreport 
+python2 autoreport.py
+
+
+
+
+WhatsApp 03430195175
+
+tnx for watching our our command 
